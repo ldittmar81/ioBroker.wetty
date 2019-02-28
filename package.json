@@ -9,7 +9,9 @@
   "engines": {
     "node": ">=0.10"
   },
-  
+  "os" : [ 
+      "!win32"
+  ],
   "homepage": "https://github.com/ioBroker/ioBroker.wetty",
   "licenses": [
     {
