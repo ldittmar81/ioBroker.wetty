@@ -1,0 +1,16 @@
+{
+    "Authentication:": "Autenticazione:",
+    "Chained certificate:": "Certificato incatenato:",
+    "Force Web-Sockets:": "Force Web-Sockets:",
+    "IP:": "IP:",
+    "Let's Encrypt settings": "Let's Encrypt settings",
+    "Port:": "Porta:",
+    "Private certificate:": "Certificato privato:",
+    "Public certificate:": "Certificato pubblico:",
+    "Secure(HTTPS):": "Sicuro (HTTPS):",
+    "Set certificates or load it first in the system settings (right top).": "Imposta i certificati o caricali prima nelle impostazioni di sistema (in alto a destra).",
+    "Terminal Server adapter settings": "Impostazioni dell'adattatore Terminal Server",
+    "Use Lets Encrypt certificates:": "Utilizza i certificati Let's Encrypt:",
+    "on save adapter restarts with new config immediately": "su save adapter si riavvia immediatamente con la nuova configurazione",
+    "socket_help": "Usato da adattatori come risciò o vis"
+}

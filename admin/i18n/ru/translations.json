@@ -1,0 +1,16 @@
+{
+    "Authentication:": "Аутентификация:",
+    "Chained certificate:": "'Chained' сертификат:",
+    "Force Web-Sockets:": "Только Web-Sockets:",
+    "IP:": "IP:",
+    "Let's Encrypt settings": "Настройки Let's Encrypt",
+    "Port:": "Порт:",
+    "Private certificate:": "'Private' сертификат:",
+    "Public certificate:": "'Public' сертификат:",
+    "Secure(HTTPS):": "Шифрование(HTTPS):",
+    "Set certificates or load it first in the system settings (right top).": "Нужно выбрать сертификаты или сначала загрузить их в системных настройках (вверху справа).",
+    "Terminal Server adapter settings": "Terminal Server adapter settings",
+    "Use Lets Encrypt certificates:": "Использовать сертификаты Let's Encrypt:",
+    "on save adapter restarts with new config immediately": "при сохранении адаптер перезапускается с новым конфигом немедленно",
+    "socket_help": "Используется для Rickshaw или Vis"
+}

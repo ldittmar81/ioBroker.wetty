@@ -2,13 +2,34 @@
     "common": {
         "name": "wetty",
         "version": "0.2.1",
-        "title": "ioBroker simple wetty Adapter",
+        "title": "Simple Wetty",
+        "titleLang": {
+            "en": "Simple Wetty",
+            "de": "Einfacher Wetty",
+            "ru": "Простой мокрая",
+            "pt": "Molhe Simples",
+            "nl": "Eenvoudig, nat",
+            "fr": "Wetty simple",
+            "it": "Semplice Wetty",
+            "es": "Wetty simple",
+            "pl": "Proste Wetty",
+            "zh-cn": "简单的湿"
+        },
         "desc": {
             "en": "opens a wetty server for the ioBroker",
             "de": "Stellt wetty server für 'ioBroker' zur Verfügung",
-            "ru": "Запускает терминал для 'ioBroker'"
+            "ru": "Запускает терминал для 'ioBroker'",
+            "pt": "abre um servidor úmido para o ioBroker",
+            "nl": "opent een natty-server voor de ioBroker",
+            "fr": "ouvre un serveur Wetty pour ioBroker",
+            "it": "apre un server wetty per ioBroker",
+            "es": "abre un servidor wetty para el ioBroker",
+            "pl": "otwiera mokry serwer dla ioBroker",
+            "zh-cn": "为ioBroker打开一个wetty服务器"
         },
         "mode": "daemon",
+        "materialize": true,
+        "license": "MIT",
         "platform": "Javascript/Node.js",
         "loglevel": "info",
         "icon": "wetty.png",

@@ -9,9 +9,7 @@
   "engines": {
     "node": ">=0.10"
   },
-  "os_": [
-    "!win32"
-  ],
+  
   "homepage": "https://github.com/ioBroker/ioBroker.wetty",
   "licenses": [
     {
@@ -46,13 +44,10 @@
     "xtend": "^4.0.1"
   },
   "devDependencies": {
-    "grunt": "^1.0.1",
-    "grunt-replace": "^1.0.1",
-    "grunt-contrib-jshint": "^1.1.0",
-    "grunt-jscs": "^3.0.1",
-    "grunt-http": "^2.2.0",
-    "mocha": "^4.1.0",
-    "chai": "^4.1.2"
+    "gulp": "^4.0.0",
+    "mocha": "^6.0.0",
+    "chai": "^4.1.2",
+    "axios": "^0.18.0"
   },
   "bugs": {
     "url": "https://github.com/ioBroker/ioBroker.wetty/issues"

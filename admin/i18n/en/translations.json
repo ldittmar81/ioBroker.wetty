@@ -1,0 +1,16 @@
+{
+    "Authentication:": "Authentication:",
+    "Chained certificate:": "Chained certificate:",
+    "Force Web-Sockets:": "Force Web-Sockets:",
+    "IP:": "IP:",
+    "Let's Encrypt settings": "Let's Encrypt settings",
+    "Port:": "Port:",
+    "Private certificate:": "Private certificate:",
+    "Public certificate:": "Public certificate:",
+    "Secure(HTTPS):": "Secure(HTTPS):",
+    "Set certificates or load it first in the system settings (right top).": "Set certificates or load it first in the system settings (right top).",
+    "Terminal Server adapter settings": "Terminal Server adapter settings",
+    "Use Lets Encrypt certificates:": "Use Let's Encrypt certificates:",
+    "on save adapter restarts with new config immediately": "on save adapter restarts with new config immediately",
+    "socket_help": "Used by adapters like rickshaw or vis"
+}

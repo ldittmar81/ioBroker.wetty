@@ -1,0 +1,16 @@
+{
+    "Authentication:": "authenticatie:",
+    "Chained certificate:": "Geketend certificaat:",
+    "Force Web-Sockets:": "Force Web-Sockets:",
+    "IP:": "IK P:",
+    "Let's Encrypt settings": "Laten we de instellingen versleutelen",
+    "Port:": "Haven:",
+    "Private certificate:": "Privé certificaat:",
+    "Public certificate:": "Openbaar certificaat:",
+    "Secure(HTTPS):": "Secure (HTTPS):",
+    "Set certificates or load it first in the system settings (right top).": "Stel certificaten in of laad het eerst in de systeeminstellingen (rechtsboven).",
+    "Terminal Server adapter settings": "Terminal Server-adapterinstellingen",
+    "Use Lets Encrypt certificates:": "Gebruik Let's Encrypt-certificaten:",
+    "on save adapter restarts with new config immediately": "on save-adapter wordt onmiddellijk opnieuw opgestart met nieuwe config",
+    "socket_help": "Gebruikt door adapters zoals riksja of vis"
+}

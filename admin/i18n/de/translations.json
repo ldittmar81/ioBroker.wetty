@@ -1,0 +1,16 @@
+{
+    "Authentication:": "Authentifikation:",
+    "Chained certificate:": "Kettenzertifikat:",
+    "Force Web-Sockets:": "Nur Web-Sockets:",
+    "IP:": "IP:",
+    "Let's Encrypt settings": "Einstellungen Let's Encrypt",
+    "Port:": "Port:",
+    "Private certificate:": "Privatzertifikat:",
+    "Public certificate:": "Publikzertifikat:",
+    "Secure(HTTPS):": "Verschlüsselung(HTTPS):",
+    "Set certificates or load it first in the system settings (right top).": "Setze Zertificate oder lade die erst unter System/Einstellungen (oben rechts).",
+    "Terminal Server adapter settings": "Terminal Server adapter settings",
+    "Use Lets Encrypt certificates:": "Benutzen Let's Encrypt Zertifikate:",
+    "on save adapter restarts with new config immediately": "on save adapter startet sofort mit der neuen config neu",
+    "socket_help": "Wird von Rickshaw oder Vis benutzt"
+}

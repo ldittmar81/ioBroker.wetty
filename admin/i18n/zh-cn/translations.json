@@ -1,0 +1,16 @@
+{
+    "Authentication:": "验证：",
+    "Chained certificate:": "链式证书：",
+    "Force Web-Sockets:": "强制Web套接字：",
+    "IP:": "IP：",
+    "Let's Encrypt settings": "我们加密设置",
+    "Port:": "港口：",
+    "Private certificate:": "私人证书：",
+    "Public certificate:": "公证书：",
+    "Secure(HTTPS):": "安全（HTTPS）：",
+    "Set certificates or load it first in the system settings (right top).": "设置证书或首先在系统设置中加载它（右上角）。",
+    "Terminal Server adapter settings": "终端服务器适配器设置",
+    "Use Lets Encrypt certificates:": "使用Let的加密证书：",
+    "on save adapter restarts with new config immediately": "保存适配器立即重新启动新配置",
+    "socket_help": "由人力车或可见的适配器使用"
+}
